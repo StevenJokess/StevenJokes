@@ -18,6 +18,7 @@ https://github.com/anuraghazra/github-readme-stats
 - 🌱 I’m currently learning :[Dive into Deep Learning](https://d2l.ai)
 - 💬 Ask something about [Deep Learning](https://discuss.d2l.ai)
 - 📫 How to reach me: [My issue](https://github.com/StevenJokes/StevenJokes/issues)
+- 🌈 [My blog](https://blog.dltech.xyz/)
 - ⚡ The books I have read recommend to you:[Sybier的书单「2020年百书6.1完结！」](https://weread.qq.com/misc/booklist/358906697_7e9fYZVah)
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
