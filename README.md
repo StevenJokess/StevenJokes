@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently hunting for a product manager, data scientist job :[resume](https://blog.dltech.xyz/post/jian-li/)
 - 🌱 I’m currently learning :[Dive into Deep Learning](https://d2l.ai)
+- 💬 Ask something about [Deep Learning](https://discuss.d2l.ai)
+- 📫 How to reach me: llgg8679@qq.com
 
 [![StevenJokes's github stats](https://github-readme-stats.vercel.app/api?username=StevenJokes&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=StevenJokes&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
