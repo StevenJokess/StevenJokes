@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently hunting for a job :[resume](https://blog.dltech.xyz/post/jian-li/)
+- 🔭 I’m currently hunting for a product manager, data scientist job :[resume](https://blog.dltech.xyz/post/jian-li/)
 - 🌱 I’m currently learning :[Dive into Deep Learning](https://d2l.ai)
 
 [![StevenJokes's github stats](https://github-readme-stats.vercel.app/api?username=StevenJokes&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
