@@ -1,8 +1,6 @@
-### Hi there 👋
-
 <!--
 **StevenJokes/StevenJokes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+### Hi there 👋
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -14,6 +12,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m currently hunting for a job :[resume](https://blog.dltech.xyz/post/jian-li/)
+- 🌱 I’m currently learning :[Dive into Deep Learning](https://d2l.ai)
 
 [![StevenJokes's github stats](https://github-readme-stats.vercel.app/api?username=StevenJokes&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=StevenJokes&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
