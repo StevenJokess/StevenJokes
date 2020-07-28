@@ -30,9 +30,9 @@ read:https://github.com/anuraghazra/github-readme-stats to furnish your github!
 </a>
 
 <a>
-  <img align="right" src="https://github-readme-stats.vercel.app/api/pin?username=StevenJokes&repo=paddlelite-andriod-demo&theme=tokyonight&line_height=13">
+  <img align="right" src="https://github-readme-stats.vercel.app/api/pin?username=StevenJokes&repo=paddlelite-andriod-demo&theme=tokyonight&width=30&line_height=13">
 </a>
 <a>
-  <img align="right" src="https://github-readme-stats.vercel.app/api/pin?username=StevenJokes&repo=android-djl-demo&theme=tokyonight&line_height=13">
+  <img align="right" src="https://github-readme-stats.vercel.app/api/pin?username=StevenJokes&repo=android-djl-demo&theme=tokyonight&width=30&line_height=13">
 </a>
 
