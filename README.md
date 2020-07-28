@@ -17,14 +17,11 @@ https://github.com/anuraghazra/github-readme-stats
 <a>
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=StevenJokes&show_icons=true&theme=tokyonight&layout=compact&line_height=27"/>
 </a>
+
 - 🌱 I’m currently learning :[Dive into Deep Learning](https://d2l.ai)
-
 - 💬 Ask something about [Deep Learning](https://discuss.d2l.ai)
-
 - 📫 How to reach me: [My issue](https://github.com/StevenJokes/StevenJokes/issues)
-
 - 🌈 [My blog](https://blog.dltech.xyz/)
-
 - ⚡ [Sybier的书单「2020年百书6.1完结！」](https://weread.qq.com/misc/booklist/358906697_7e9fYZVah)
 
 
