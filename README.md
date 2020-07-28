@@ -17,10 +17,10 @@ read:https://github.com/anuraghazra/github-readme-stats to furnish your github!
 - 😄 I’m currently watching : [Street Dance of China](https://www.youtube.com/watch?v=TDRpPtKkVn8)
 - 
 -->
-
 <a>
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=StevenJokes&theme=tokyonight&layout=compact&line_height=27" width="350"/>
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=StevenJokes&show_icons=true&theme=tokyonight&include_all_commits=true" width="350" />
 </a>
+
 
 - 🌈 [My blog](https://blog.dltech.xyz/)
 - 💬 Ask something about [Deep Learning](https://discuss.d2l.ai)
@@ -29,8 +29,9 @@ read:https://github.com/anuraghazra/github-readme-stats to furnish your github!
 - ✨ [Write blog by github!](https://github.com/getgridea/gridea)
 
 ---
+
 <a>
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=StevenJokes&show_icons=true&theme=tokyonight&include_all_commits=true" width="350" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=StevenJokes&theme=tokyonight&layout=compact&line_height=27" width="350"/>
 </a>
 
 - 🌱 I’m currently learning :[Dive into Deep Learning](https://d2l.ai)
@@ -40,10 +41,10 @@ read:https://github.com/anuraghazra/github-readme-stats to furnish your github!
 - 👋 I’m currently unhappy :[Make a friend by telemgram](https://t.me/StevenJokes)
 
 <a>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin?username=StevenJokes&repo=paddlelite-andriod-demo&theme=tokyonight&line_height=13" width="400"/>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin?username=StevenJokes&repo=paddlelite-andriod-demo&theme=tokyonight&line_height=13" width="400"/>
 </a>
 <a>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin?username=StevenJokes&repo=android-djl-demo&theme=tokyonight&line_height=13" width="400"/>
+  <img align="right" src="https://github-readme-stats.vercel.app/api/pin?username=StevenJokes&repo=android-djl-demo&theme=tokyonight&line_height=13" width="400"/>
 </a>
 
 
