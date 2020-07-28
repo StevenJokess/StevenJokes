@@ -25,5 +25,5 @@ https://github.com/anuraghazra/github-readme-stats
 </a>
 <a>
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats1.vercel.app/api/top-langs/?username=StevenJokes&show_icons=true&theme=tokyonight&layout=compact&line_height=27" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=StevenJokes&show_icons=true&theme=tokyonight&layout=compact&line_height=27" />
 </a>
