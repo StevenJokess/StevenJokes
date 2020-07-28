@@ -18,7 +18,7 @@ read:https://github.com/anuraghazra/github-readme-stats to furnish your github!
 - 
 -->
 
-<a>
+<a href=https://blog.dltech.xyz/>
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=StevenJokes&theme=tokyonight&layout=compact&line_height=27" width="340"/>
 </a>
 
@@ -30,7 +30,7 @@ read:https://github.com/anuraghazra/github-readme-stats to furnish your github!
 
 ---
 
-<a>
+<a href=https://blog.dltech.xyz/>
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=StevenJokes&show_icons=true&theme=tokyonight&include_all_commits=true" width="340" />
 </a>
 
@@ -46,13 +46,3 @@ read:https://github.com/anuraghazra/github-readme-stats to furnish your github!
 <a href=https://github.com/StevenJokes/android-djl-demo>
   <img align="right" src="https://github-readme-stats.vercel.app/api/pin?username=StevenJokes&repo=android-djl-demo&theme=tokyonight&line_height=13"/>
 </a>
-
-
-
-
-
-
-
-
-
-
