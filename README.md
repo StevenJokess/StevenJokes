@@ -31,6 +31,7 @@ read:https://github.com/anuraghazra/github-readme-stats to furnish your github!
 - 🌈 [My blog](https://blog.dltech.xyz/)
 - 💬 Ask something about [Deep Learning](https://discuss.d2l.ai)
 - ⚡ [Recommend 100 books I have read](https://weread.qq.com/misc/booklist/358906697_7e9fYZVah)
+- 🤔 [Furnish your github!](https://github.com/anuraghazra/github-readme-stats)
 
 
 <a>
@@ -40,6 +41,7 @@ read:https://github.com/anuraghazra/github-readme-stats to furnish your github!
 - 🌱 I’m currently learning :[Dive into Deep Learning](https://d2l.ai)
 - 😄 I’m currently watching : [Street Dance of China](https://www.youtube.com/watch?v=TDRpPtKkVn8)
 - 🔭 I’m currently working on :[Build a DL app](https://www.youtube.com/watch?v=O_2KBhkIvnc)
+- 📫 I’m currently hunting for a product manager, data scientist job :[resume](https://blog.dltech.xyz/post/jian-li/)
 
 
 
