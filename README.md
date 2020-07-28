@@ -32,6 +32,7 @@ read:https://github.com/anuraghazra/github-readme-stats to furnish your github!
 - 💬 Ask something about [Deep Learning](https://discuss.d2l.ai)
 - ⚡ [Recommend 100 books I have read this year](https://weread.qq.com/misc/booklist/358906697_7e9fYZVah)
 - 🤔 [Furnish your github!](https://github.com/anuraghazra/github-readme-stats)
+- ✨ [Write blog by github!](https://github.com/getgridea/gridea)
 
 <a>
   <img align="right" src="https://github-readme-stats.vercel.app/api/pin?username=StevenJokes&repo=android-djl-demo&theme=tokyonight&line_height=13" width="400"/>
