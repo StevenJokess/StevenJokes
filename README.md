@@ -23,7 +23,6 @@ read:https://github.com/anuraghazra/github-readme-stats to furnish your github!
 </a>
 
 - 🌱 I’m currently learning :[Dive into Deep Learning](https://d2l.ai)
-
 - 💬 Ask something about [Deep Learning](https://discuss.d2l.ai)
 - 📫 How to reach me: [My issue](https://github.com/StevenJokes/StevenJokes/issues)
 - 🌈 [My blog](https://blog.dltech.xyz/)
