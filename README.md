@@ -20,10 +20,10 @@ https://github.com/anuraghazra/github-readme-stats
 - 🌈 [My blog](https://blog.dltech.xyz/)
 - ⚡ The books I have read recommend to you:[Sybier的书单「2020年百书6.1完结！」](https://weread.qq.com/misc/booklist/358906697_7e9fYZVah)
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=StevenJokes&show_icons=true&theme=tokyonight&line_height=27" alt="Anurag's github stats" />
+<a>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=StevenJokes&show_icons=true&theme=tokyonight&line_height=27"/>
 </a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a>
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=StevenJokes&show_icons=true&theme=tokyonight&line_height=27" />
+  <img align="center" src="https://github-readme-stats1.vercel.app/api/top-langs/?username=StevenJokes&show_icons=true&theme=tokyonight&layout=compact&line_height=27" />
 </a>
