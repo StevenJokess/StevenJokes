@@ -20,10 +20,12 @@ read:https://github.com/anuraghazra/github-readme-stats to furnish your github!
 </a>
 
 - 🌱 I’m currently learning :[Dive into Deep Learning](https://d2l.ai)
+- 🔭 I’m currently working on :[Build a DL app](https://www.youtube.com/watch?v=O_2KBhkIvnc)
 - 💬 Ask something about [Deep Learning](https://discuss.d2l.ai)
 - 📫 How to reach me: [My issue](https://github.com/StevenJokes/StevenJokes/issues)
 - 🌈 [My blog](https://blog.dltech.xyz/)
 - ⚡ [Recommend 100 books I have read](https://weread.qq.com/misc/booklist/358906697_7e9fYZVah)
+- 😄 I’m currently watching : [这就是街舞](https://www.youtube.com/watch?v=TDRpPtKkVn8）
 
 <a>
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=StevenJokes&show_icons=true&theme=tokyonight&include_all_commits=true" width="410" />
