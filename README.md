@@ -24,5 +24,5 @@ https://github.com/anuraghazra/github-readme-stats
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=StevenJokes&show_icons=true&theme=tokyonight&include_all_commits=true&line_height=27"/>
 </a>
 <a>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=StevenJokes&show_icons=true&theme=tokyonight&layout=compact&line_height=27"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=StevenJokes&show_icons=true&theme=tokyonight&line_height=27"/>
 </a>
