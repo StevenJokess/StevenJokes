@@ -25,7 +25,7 @@ read:https://github.com/anuraghazra/github-readme-stats to furnish your github!
 - 📫 How to reach me: [My issue](https://github.com/StevenJokes/StevenJokes/issues)
 - 🌈 [My blog](https://blog.dltech.xyz/)
 - ⚡ [Recommend 100 books I have read](https://weread.qq.com/misc/booklist/358906697_7e9fYZVah)
-- 😄 I’m currently watching : [这就是街舞](https://www.youtube.com/watch?v=TDRpPtKkVn8）
+- 😄 I’m currently watching : [Street Dance of China](https://www.youtube.com/watch?v=TDRpPtKkVn8)
 
 <a>
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=StevenJokes&show_icons=true&theme=tokyonight&include_all_commits=true" width="410" />
