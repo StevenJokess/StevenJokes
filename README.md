@@ -21,8 +21,8 @@ https://github.com/anuraghazra/github-readme-stats
 - ⚡ The books I have read recommend to you:[Sybier的书单「2020年百书6.1完结！」](https://weread.qq.com/misc/booklist/358906697_7e9fYZVah)
 
 <a>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=StevenJokes&show_icons=true&theme=tokyonight&line_height=27"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=StevenJokes&show_icons=true&theme=tokyonight&include_all_commits=true&line_height=27"/>
 </a>
 <a>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=StevenJokes&show_icons=true&theme=tokyonight&layout=compact&line_height=27" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=StevenJokes&show_icons=true&theme=tokyonight&layout=compact&line_height=27"/>
 </a>
