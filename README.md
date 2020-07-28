@@ -29,5 +29,5 @@ read:https://github.com/anuraghazra/github-readme-stats to furnish your github!
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=StevenJokes&show_icons=true&theme=tokyonight&include_all_commits=true&line_height=27"/>
 </a>
 <a>
-  <img align="right" src="https://gist.github.com/StevenJokes/7ef1d9c8175f2379fe0313ae353524b8.js">
+  <img align="right" src="https://github-readme-stats.vercel.app/api/pin?username=StevenJokes&repo=waka-box">
 </a>
