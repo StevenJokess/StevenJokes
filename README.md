@@ -15,7 +15,7 @@ read:https://github.com/anuraghazra/github-readme-stats to furnish your github!
 - 🔭 I’m currently hunting for a product manager, data scientist job :[resume](https://blog.dltech.xyz/post/jian-li/)
 -->
 <a>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=StevenJokes&show_icons=true&theme=tokyonight&include_all_commits=true&line_height=27"/>
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=StevenJokes&show_icons=true&theme=tokyonight&include_all_commits=true&line_height=27"/>
 </a>
 
 <a>
@@ -26,7 +26,7 @@ read:https://github.com/anuraghazra/github-readme-stats to furnish your github!
 - 💬 Ask something about [Deep Learning](https://discuss.d2l.ai)
 - 📫 How to reach me: [My issue](https://github.com/StevenJokes/StevenJokes/issues)
 - 🌈 [My blog](https://blog.dltech.xyz/)
-- ⚡ [Recommend 100 books I have read(https://weread.qq.com/misc/booklist/358906697_7e9fYZVah)
+- ⚡ [Recommend 100 books I have read](https://weread.qq.com/misc/booklist/358906697_7e9fYZVah)
 
 <a>
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin?username=StevenJokes&repo=paddlelite-andriod-demo&theme=tokyonight&line_height=27">
