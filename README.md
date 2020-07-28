@@ -19,7 +19,7 @@ read:https://github.com/anuraghazra/github-readme-stats to furnish your github!
 -->
 
 <a>
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=StevenJokes&theme=tokyonight&layout=compact&line_height=27" width="350"/>
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=StevenJokes&theme=tokyonight&layout=compact&line_height=27" width="340"/>
 </a>
 
 - 🌈 [My blog](https://blog.dltech.xyz/)
@@ -31,7 +31,7 @@ read:https://github.com/anuraghazra/github-readme-stats to furnish your github!
 ---
 
 <a>
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=StevenJokes&show_icons=true&theme=tokyonight&include_all_commits=true" width="350" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=StevenJokes&show_icons=true&theme=tokyonight&include_all_commits=true" width="340" />
 </a>
 
 - 🌱 I’m currently learning :[Dive into Deep Learning](https://d2l.ai)
