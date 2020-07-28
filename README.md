@@ -26,7 +26,7 @@ read:https://github.com/anuraghazra/github-readme-stats to furnish your github!
 - ⚡ [Recommend 100 books I have read](https://weread.qq.com/misc/booklist/358906697_7e9fYZVah)
 
 <a>
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=StevenJokes&show_icons=true&theme=tokyonight&include_all_commits=true" width="440"/>
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=StevenJokes&show_icons=true&theme=tokyonight&include_all_commits=true" width="420"/>
 </a>
 
 <a>
