@@ -13,6 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 read:https://github.com/anuraghazra/github-readme-stats to furnish your github!
 - 🔭 I’m currently hunting for a product manager, data scientist job :[resume](https://blog.dltech.xyz/post/jian-li/)
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=StevenJokes&theme=tokyonight&layout=compact&line_height=27"/>
 -->
 - 🌱 I’m currently learning :[Dive into Deep Learning](https://d2l.ai)
 - 💬 Ask something about [Deep Learning](https://discuss.d2l.ai)
@@ -23,7 +24,7 @@ read:https://github.com/anuraghazra/github-readme-stats to furnish your github!
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=StevenJokes&show_icons=true&theme=tokyonight&include_all_commits=true"/>
 </a>
 <a>
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=StevenJokes&show_icons=true&theme=tokyonight&layout=compact&line_height=27"/>
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=StevenJokes&theme=tokyonight&layout=compact&line_height=27"/>
 </a>
 <a>
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin?username=StevenJokes&repo=paddlelite-andriod-demo&theme=tokyonight&line_height=27">
