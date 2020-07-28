@@ -26,13 +26,13 @@ read:https://github.com/anuraghazra/github-readme-stats to furnish your github!
 - ⚡ [Recommend 100 books I have read](https://weread.qq.com/misc/booklist/358906697_7e9fYZVah)
 
 <a>
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=StevenJokes&show_icons=true&theme=tokyonight&include_all_commits=true" width="200"/>
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=StevenJokes&show_icons=true&theme=tokyonight&include_all_commits=true" width="400"/>
 </a>
 
 <a>
-  <img align="right" src="https://github-readme-stats.vercel.app/api/pin?username=StevenJokes&repo=paddlelite-andriod-demo&theme=tokyonight&line_height=13" width="200"/>
+  <img align="right" src="https://github-readme-stats.vercel.app/api/pin?username=StevenJokes&repo=paddlelite-andriod-demo&theme=tokyonight&line_height=13" width="400"/>
 </a>
 <a>
-  <img align="right" src="https://github-readme-stats.vercel.app/api/pin?username=StevenJokes&repo=android-djl-demo&theme=tokyonight&line_height=13" width="200"/>
+  <img align="right" src="https://github-readme-stats.vercel.app/api/pin?username=StevenJokes&repo=android-djl-demo&theme=tokyonight&line_height=13" width="400"/>
 </a>
 
