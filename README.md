@@ -16,12 +16,7 @@ read:https://github.com/anuraghazra/github-readme-stats to furnish your github!
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=StevenJokes&theme=tokyonight&layout=compact&line_height=27"/>
 -->
 
-<a>
-  <img align="right" src="https://github-readme-stats.vercel.app/api/pin?username=StevenJokes&repo=paddlelite-andriod-demo&theme=tokyonight&line_height=13" width="400"/>
-</a>
-<a>
-  <img align="right" src="https://github-readme-stats.vercel.app/api/pin?username=StevenJokes&repo=android-djl-demo&theme=tokyonight&line_height=13" width="400"/>
-</a>
+
 
 
 
@@ -32,6 +27,13 @@ read:https://github.com/anuraghazra/github-readme-stats to furnish your github!
 - 🌈 [My blog](https://blog.dltech.xyz/)
 - ⚡ [Recommend 100 books I have read](https://weread.qq.com/misc/booklist/358906697_7e9fYZVah)
 - 😄 I’m currently watching : [Street Dance of China](https://www.youtube.com/watch?v=TDRpPtKkVn8)
+
+<a>
+  <img align="right" src="https://github-readme-stats.vercel.app/api/pin?username=StevenJokes&repo=paddlelite-andriod-demo&theme=tokyonight&line_height=13" width="400"/>
+</a>
+<a>
+  <img align="right" src="https://github-readme-stats.vercel.app/api/pin?username=StevenJokes&repo=android-djl-demo&theme=tokyonight&line_height=13" width="400"/>
+</a>
 
 <a>
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=StevenJokes&show_icons=true&theme=tokyonight&include_all_commits=true" width="410" />
