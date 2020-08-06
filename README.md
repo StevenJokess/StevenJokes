@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 read:https://github.com/anuraghazra/github-readme-stats to furnish your github!
 - 🔭 I’m currently hunting for a product manager, data scientist job :[resume](https://blog.dltech.xyz/post/jian-li/)
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=StevenJokes&theme=tokyonight&layout=compact&line_height=27"/>
-- 😄 I’m currently watching : [Street Dance of China](https://www.youtube.com/watch?v=TDRpPtKkVn8)
+- 😄 I’m currently watching : [Street Dance of China](https://www.youtube.com/playlist?list=PLl0fCInDL_WHHIaXGAe2U7ryKD_SAkiXU)
 - 
 -->
 
