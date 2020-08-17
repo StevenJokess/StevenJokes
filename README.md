@@ -43,6 +43,13 @@ read:https://github.com/anuraghazra/github-readme-stats to furnish your github!
 <a href=https://github.com/StevenJokes/paddlelite-andriod-demo>
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin?username=StevenJokes&repo=paddlelite-andriod-demo&theme=tokyonight&line_height=13"/>
 </a>
-<a href=https://github.com/StevenJokes/android-djl-demo>
-  <img align="right" src="https://github-readme-stats.vercel.app/api/pin?username=StevenJokes&repo=android-djl-demo&theme=tokyonight&line_height=13"/>
+<a href=https://github.com/StevenJokes/djl-android-demo>
+  <img align="right" src="https://github-readme-stats.vercel.app/api/pin?username=StevenJokes&repo=djl-android-demo&theme=tokyonight&line_height=13"/>
 </a>
+<a href=https://github.com/StevenJokes/pytorch-andriod-demo>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin?username=StevenJokes&repo=pytorch-andriod-demo&theme=tokyonight&line_height=13"/>
+</a>
+<a href=https://github.com/StevenJokes/Pytorch-Kotlin-Demo>
+  <img align="right" src="https://github-readme-stats.vercel.app/api/pin?username=StevenJokes&repo=Pytorch-Kotlin-Demo&theme=tokyonight&line_height=13"/>
+</a>
+
