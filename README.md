@@ -16,6 +16,7 @@ read:https://github.com/anuraghazra/github-readme-stats to furnish your github!
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=StevenJokes&theme=tokyonight&layout=compact&line_height=27"/>
 - 😄 I’m currently watching : [Street Dance of China](https://www.youtube.com/playlist?list=PLl0fCInDL_WHHIaXGAe2U7ryKD_SAkiXU)
 - 
+summary:https://github.com/Jhingun1/Jhingun1
 -->
 
 <a href=https://blog.dltech.xyz/>
@@ -39,6 +40,11 @@ read:https://github.com/anuraghazra/github-readme-stats to furnish your github!
 - 🔭 I’m currently working on :[Build a DL app](https://www.youtube.com/watch?v=O_2KBhkIvnc)
 - 📫 I’m currently hunting for a PM job :[Resume](https://blog.dltech.xyz/post/jian-li/)
 - 👋 I’m currently unhappy :[Make a friend by telemgram](https://t.me/StevenJokes)
+
+<details>
+<summary>Expand: More About Me...</summary>
+ 
+ </details>
 
 <a href=https://github.com/StevenJokes/paddlelite-andriod-demo>
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin?username=StevenJokes&repo=paddlelite-andriod-demo&theme=tokyonight&line_height=13"/>
