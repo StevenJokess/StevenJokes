@@ -41,10 +41,6 @@ summary:https://github.com/Jhingun1/Jhingun1
 - 📫 I’m currently hunting for a PM job :[Resume](https://blog.dltech.xyz/post/jian-li/)
 - 👋 I’m currently unhappy :[Make a friend by telemgram](https://t.me/StevenJokes)
 
-<details>
-<summary>Expand: More About Me...</summary>
- 
- </details>
 
 <a href=https://github.com/StevenJokes/paddlelite-andriod-demo>
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin?username=StevenJokes&repo=paddlelite-andriod-demo&theme=tokyonight&line_height=13"/>
@@ -59,3 +55,8 @@ summary:https://github.com/Jhingun1/Jhingun1
   <img align="right" src="https://github-readme-stats.vercel.app/api/pin?username=StevenJokes&repo=Pytorch-Kotlin-Demo&theme=tokyonight&line_height=13"/>
 </a>
 
+
+<details>
+<summary>Expand: More About Me...</summary>
+ 
+ </details>
