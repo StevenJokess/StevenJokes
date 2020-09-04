@@ -24,7 +24,7 @@ summary:https://github.com/Jhingun1/Jhingun1
 </a>
 
 - 🌈 [My blog](https://blog.dltech.xyz/)
-- 💬 Ask something about [Deep Learning](https://discuss.d2l.ai)
+- 💬 Ask something about [Deep Learning](http://preview.d2l.ai/d2l-en/master)
 - ⚡ [Recommend 100 books I have read this year](https://weread.qq.com/misc/booklist/358906697_7e9fYZVah)
 - 🤔 [Furnish your github!](https://github.com/anuraghazra/github-readme-stats)
 - ✨ [Write blog by github!](https://github.com/getgridea/gridea)
