@@ -19,6 +19,10 @@ read:https://github.com/anuraghazra/github-readme-stats to furnish your github!
 summary:https://github.com/Jhingun1/Jhingun1
 -->
 
+<p align="center"> 
+  <img src="https://komarev.com/ghpvc/?username=StevenJokes" width="129px" alt="profile views" /> 
+ <p align="center"> 
+
 <a href=https://blog.dltech.xyz/>
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=StevenJokes&theme=tokyonight&layout=compact&line_height=27" width="340"/>
 </a>
@@ -60,3 +64,5 @@ summary:https://github.com/Jhingun1/Jhingun1
 <summary>Expand: More About Me...</summary>
  
  </details>
+ 
+ <p align="center"> "Code is cheap. Show me the friendly product" &nbsp;&nbsp;&nbsp; -- Steven Jokes  </p>
