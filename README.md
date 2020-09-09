@@ -22,6 +22,8 @@ summary:https://github.com/Jhingun1/Jhingun1
 <p align="center"> 
   <img src="https://img.shields.io/github/followers/StevenJokes?label=Followers" width="103px" alt="github follow" />
   <img src="https://komarev.com/ghpvc/?username=StevenJokes" width="129px" alt="profile views" /> 
+  <a href="https://twitter.com/Steven72815911"><img src="https://img.shields.io/twitter/follow/Steven72815911?label=Twitter&style=social" alt="Twitter"></a>
+  <a href="https://www.zhihu.com/people/StevenJokes"><img src="https://img.shields.io/badge/知乎--_.svg?style=social&logo=zhihu" alt="知乎"></a>
  <p align="center"> 
 
 <a href=https://blog.dltech.xyz/>
