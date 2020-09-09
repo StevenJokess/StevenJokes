@@ -45,7 +45,7 @@ summary:https://github.com/Jhingun1/Jhingun1
 - 🌱 I’m currently learning :[Dive into Deep Learning](https://d2l.ai)
 - 😄 I’m currently watching : [Street Dance of China](https://www.youtube.com/watch?v=TDRpPtKkVn8)
 - 🔭 I’m currently working on :[Build a DL app](https://www.youtube.com/watch?v=O_2KBhkIvnc)
-- 📫 I’m currently hunting for a PM job :[Resume](https://blog.dltech.xyz/post/jian-li/)
+- 📫 I’m currently hunting for a PM job :[Resume 求职简历](https://blog.dltech.xyz/post/jian-li/)
 - 👋 I’m currently unhappy :[Make a friend by telemgram](https://t.me/StevenJokes)
 
 
