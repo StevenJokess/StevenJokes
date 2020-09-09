@@ -20,7 +20,7 @@ summary:https://github.com/Jhingun1/Jhingun1
 -->
 
 <p align="center"> 
-  <img src="https://img.shields.io/github/followers/StevenJokes?label=Followers" width="102px" alt="github follow" />
+  <img src="https://img.shields.io/github/followers/StevenJokes?label=Followers" width="103px" alt="github follow" />
   <img src="https://komarev.com/ghpvc/?username=StevenJokes" width="129px" alt="profile views" /> 
  <p align="center"> 
 
