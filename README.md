@@ -42,7 +42,8 @@ summary:https://github.com/Jhingun1/Jhingun1
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=StevenJokes&show_icons=true&theme=tokyonight&include_all_commits=true" width="340" />
 </a>
 
-- 🌱 I’m currently learning :[Dive into Deep Learning (DCGAN translated MXnet to PyTorch](http://preview.d2l.ai/d2l-en/master/chapter_generative-adversarial-networks/dcgan.html)
+- 🌱 I’m currently learning :[Dive into Deep Learning](http://preview.d2l.ai/d2l-en/master/chapter_generative-adversarial-networks/dcgan.html)
+
 - 😄 I’m currently watching : [Street Dance of China](https://www.youtube.com/watch?v=TDRpPtKkVn8)
 - 🔭 I’m currently working on :[Build a DL app](https://www.youtube.com/watch?v=O_2KBhkIvnc)
 - 📫 I’m currently hunting for a PM job :[Resume 求职简历](https://blog.dltech.xyz/post/jian-li/)
@@ -62,10 +63,13 @@ summary:https://github.com/Jhingun1/Jhingun1
   <img align="right" src="https://github-readme-stats.vercel.app/api/pin?username=StevenJokes&repo=Pytorch-Kotlin-Demo&theme=tokyonight&line_height=13"/>
 </a>
 
+Dive into Deep Learning (translated chapter_generative-adversarial-networks from MXnet to PyTorch):
+- [GAN](http://preview.d2l.ai/d2l-en/master/chapter_generative-adversarial-networks/gan.html)
+- [DCGAN](http://preview.d2l.ai/d2l-en/master/chapter_generative-adversarial-networks/dcgan.html)
 
 <details>
 <summary>Expand: More About Me...</summary>
- 
+ (GAN/DCGAN translated MXnet to PyTorch)
  </details>
  
  <p align="center"> "Code is cheap. Show me the friendly product" &nbsp;&nbsp;&nbsp; -- Steven Jokes  </p>
