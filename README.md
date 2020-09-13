@@ -79,3 +79,4 @@ Dive into Deep Learning (translated chapter_generative-adversarial-networks from
  </details>
  
  <p align="center"> "Code is cheap. Show me the friendly product" &nbsp;&nbsp;&nbsp; -- Steven Jokes  </p>
+ <p align="center"> "I survive just for AI. Now I can't find any meaning for my life." &nbsp;&nbsp;&nbsp; -- Steven Jokes  </p>
