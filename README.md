@@ -55,6 +55,7 @@ summary:https://github.com/Jhingun1/Jhingun1
 Dive into Deep Learning (translated chapter_generative-adversarial-networks from MXnet to PyTorch):
 - [GAN](http://preview.d2l.ai/d2l-en/master/chapter_generative-adversarial-networks/gan.html)
 - [DCGAN](http://preview.d2l.ai/d2l-en/master/chapter_generative-adversarial-networks/dcgan.html)
+
 Now I'm blocked from d2l-ai because of [CODE_OF_CONDUCT](https://github.com/d2l-ai/d2l-en/blob/master/CODE_OF_CONDUCT.md)
 Fuck you! Open is bullshit.
 
