@@ -56,8 +56,9 @@ Dive into Deep Learning (translated chapter_generative-adversarial-networks from
 - [GAN](http://preview.d2l.ai/d2l-en/master/chapter_generative-adversarial-networks/gan.html)
 - [DCGAN](http://preview.d2l.ai/d2l-en/master/chapter_generative-adversarial-networks/dcgan.html)
 
-Now I'm blocked from d2l-ai and discuss.d2l.ai
-Fuck you. Open is bullshit.
+- Now I'm blocked from d2l-ai and discuss.d2l.ai
+- Fuck you. Open is bullshit. 
+- My contribution:https://github.com/StevenJokes/d2l-en-read/tree/master/My%20contribution
 
 <a href=https://github.com/StevenJokes/paddlelite-andriod-demo>
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin?username=StevenJokes&repo=paddlelite-andriod-demo&theme=tokyonight&line_height=13"/>
