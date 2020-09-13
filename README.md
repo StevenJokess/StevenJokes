@@ -56,8 +56,8 @@ Dive into Deep Learning (translated chapter_generative-adversarial-networks from
 - [GAN](http://preview.d2l.ai/d2l-en/master/chapter_generative-adversarial-networks/gan.html)
 - [DCGAN](http://preview.d2l.ai/d2l-en/master/chapter_generative-adversarial-networks/dcgan.html)
 
-Now I'm blocked from d2l-ai because of [CODE_OF_CONDUCT](https://github.com/d2l-ai/d2l-en/blob/master/CODE_OF_CONDUCT.md)
-Fuck you! Open is bullshit.
+Now I'm blocked from d2l-ai and discuss.d2l.ai
+Fuck you. Open is bullshit.
 
 <a href=https://github.com/StevenJokes/paddlelite-andriod-demo>
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin?username=StevenJokes&repo=paddlelite-andriod-demo&theme=tokyonight&line_height=13"/>
