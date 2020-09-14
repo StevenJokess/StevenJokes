@@ -53,8 +53,8 @@ summary:https://github.com/Jhingun1/Jhingun1
 ---
 
 Dive into Deep Learning (translated chapter_generative-adversarial-networks from MXnet to PyTorch):
-- [GAN](http://preview.d2l.ai/d2l-en/master/chapter_generative-adversarial-networks/gan.html)
-- [DCGAN](http://preview.d2l.ai/d2l-en/master/chapter_generative-adversarial-networks/dcgan.html)
+- [GAN](http://preview.d2l.ai/d2l-en/master/chapter_generative-adversarial-networks/gan.html) and [PR](https://github.com/d2l-ai/d2l-en/pull/1358)
+- [DCGAN](http://preview.d2l.ai/d2l-en/master/chapter_generative-adversarial-networks/dcgan.html) and [PR](https://github.com/d2l-ai/d2l-en/pull/1309)
 
 - Now I'm blocked from d2l-ai and discuss.d2l.ai
 - My contribution: https://github.com/StevenJokes/d2l-en-read/tree/master/My%20contribution
