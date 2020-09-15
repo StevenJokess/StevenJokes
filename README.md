@@ -57,8 +57,8 @@ Dive into Deep Learning (translated chapter_generative-adversarial-networks from
 - [DCGAN](http://preview.d2l.ai/d2l-en/master/chapter_generative-adversarial-networks/dcgan.html) ,[PR](https://github.com/d2l-ai/d2l-en/pull/1309) and [fix PR](https://github.com/d2l-ai/d2l-en/pull/1422)
 
 - Now I'm blocked from d2l-ai and discuss.d2l.ai
-- My contribution: https://github.com/StevenJokes/d2l-en-read/tree/master/My%20contribution
-- My discussion: https://github.com/StevenJokes/d2l-en-read/tree/master/discuss
+- My contribution: https://github.com/dltech-xyz/d2l-en-read/tree/master/My%20contribution
+- My discussion: https://github.com/dltech-xyz/d2l-en-read/tree/master/discuss
 
 <a href=https://github.com/StevenJokes/paddlelite-andriod-demo>
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin?username=StevenJokes&repo=paddlelite-andriod-demo&theme=tokyonight&line_height=13"/>
